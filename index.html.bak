@@ -761,12 +761,11 @@
 			         <div class="link-box">
  					  <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
-
 				   </div> <!-- /modal-03 -->
 
 				   <div id="modal-06" class="popup-modal slider mfp-hide">	
 			     	<div class="media">
-				     		<img src="images/portfolio/datacleansing.jpg" alt="" />
+				     	<img src="images/portfolio/datacleansing.jpg" alt="" />
 				     </div>      	
 					   <div class="description-box">
 					      <h4>Automate Reporting</h4>		      
