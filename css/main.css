@@ -415,7 +415,7 @@ img.pull-left {
 }
 
 /**
- * pace.js styles - minimal  - (_document-setup.scss)
+ * pace.js styles - minimal  - (_document-setup.scss) 83F52C
  * -------------------------------------------------------------------
  */
 .pace {
@@ -429,7 +429,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #83F52C;
+	background: #6A6B5D; /**Loading gray color */
 	position: fixed;
 	z-index: 900;
 	top: 0;
