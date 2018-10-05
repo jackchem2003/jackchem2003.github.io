@@ -678,11 +678,11 @@
 					<div class="bgrid folio-item">
 	               <div class="item-wrap">
 						<img src="images/portfolio/Articles.jpg" alt="whitepaper">
-						<a href="#modal-02" class="overlay">	                  	           
+						<a href="#modal-10" class="overlay">	                  	           
 							<div class="folio-item-table">
 								<div class="folio-item-cell">
-									<h3 class="folio-title">Whitepaper/Articles</h3>	     					    
-									<span class="folio-types">2018</span>
+									<h3 class="folio-title">Whitepaper Articles</h3>	     					    
+									<span class="folio-types">Feb 2018</span>
 								</div>	                      	
 							</div>                    
 						</a>
@@ -692,92 +692,74 @@
 	            <!-- modal popups - begin
 	            ============================================================= -->
 				<div id="modal-01" class="popup-modal slider mfp-hide">	
-
 				     	<div class="media">
 				     		<img src="images/portfolio/sentiment1.jpg" alt="" />
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>Synthetic Data Generation for Salesforce</h4>		      
 					      <p>Introducing a data security and integration agent between the source and TDM tool as well as between TDM tool and test environment addresses the critical integration and security issues. [Data Loader API,Integration & Loading script and CA Test Data Manager 4.2]</p>
 					      <div class="categories">Test Data Management | Virgin Media, UK</div>			               
 					   </div>
-
 					 <div class="link-box">
 			          <!--<a href="https://github.com/sh4/queens/tree/master/digit%20recognizer">Details</a>-->
 					    <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		   
-				   </div>
-				   <div id="modal-02" class="popup-modal slider mfp-hide">	
+				   </div> <!-- /modal-01 -->
 
+				   <div id="modal-02" class="popup-modal slider mfp-hide">	
 				     	<div class="media">
 				     		<img src="images/portfolio/stock1.png" alt=""/>
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>Data Masking</h4>		      
 					      <p>Design/Developed utility that will perform data masking @ one click. We had scenario were masking is happening separtely in SIT, UAT & Pre-PROD. We have created a generic scripts that would able to execute and perform data masking for any data warehouse like Netezza and Hadoop. We have supported/delivered for 21 databases. [CA Test Data Manager 4.2]</p>
-
 					      <div class="categories">Data Masking | Virgin Media, UK</div>			               
 					   </div>
-
 			          <div class="link-box">
 				    <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
-					
-				   </div> 
-				   <div id="modal-03" class="popup-modal slider mfp-hide">	
+				</div> <!-- /modal-02 -->
 
+				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 				     	<div class="media">
 				     		<img src="images/portfolio/poker.jpg" alt="" />
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>Service Virtualization using SOAPUI, HOVERFLY</h4>		      
 					      <p>Service Virtualization is all about removing constraints within the SDLC by simulating dependent systems, services and behaviors. I trained engineers through SOAPUI and HOVERFLY tools. So that, testing and validation happens on virtualized services. [Python, SOAPUI & Hoverfly Tool]</p>
-
 					      <div class="categories">Service Virtualization | Verizon, US</div>			               
 					   </div>
-
 			         <div class="link-box">
 			           <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
-
 				   </div> <!-- /modal-01 -->
 				   
 	                <!-- /modal-01 -->
-
 				   <div id="modal-05" class="popup-modal slider mfp-hide">	
 				     	<div class="media">
 				     		<img src="images/portfolio/vulnerability1.jpg" alt="" />
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>Code Coverage Analyser</h4>		      
 					      <p>There were number of automation frameworks that was developed by different test team. We need one tool or customized tool that will evaluate the automation code. I identified and customized SONARQUBE tool to perform code coverage analysis. That helped testers to start debugging the scripts and optimize their framework.</p>
 					      <div class="categories">Script Optimization | Verizon,US </div>			               
 					   </div>
-
 			         <div class="link-box">
      			      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
-
 				   </div> <!-- /modal-02 -->
 
 				   <div id="modal-04" class="popup-modal slider mfp-hide">	
-
 				     	<div class="media">
 				     	<img src="images/portfolio/digitrec_m.png" alt="" />
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>E2E Test Manager</h4>		      
 					      <p>I was promoted to manage E2E Testing for mutiple telco applications that perform Order Fulfillment, Provisioning and Fault Isolation. I managed a team of 35 engineers and responsible to co-oridinate between SIT Test teams, UAT Teams, development teams and Key Stakeholders. It was challenging and learning experience to drive the team to hit the deadline without any slippage. Also, I am responsible for supporting UAT training and support during the UAT execution.</p>
 					      <div class="categories">Test Management | Verizon, US </div>			               
 					   </div>
-
 			         <div class="link-box">
- 			      <a href="#" class="popup-modal-dismiss">Close</a>
+ 					  <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
 				   </div> <!-- /modal-03 -->
@@ -785,15 +767,12 @@
 				   <div id="modal-06" class="popup-modal slider mfp-hide">	
 			     	<div class="media">
 				     		<img src="images/portfolio/datacleansing.jpg" alt="" />
-				     	</div>      	
-
+				     </div>      	
 					   <div class="description-box">
 					      <h4>Automate Reporting</h4>		      
 					      <p> Developed automated reporting using SQL Procedure that will start sending report from HP Quality Center automatically. Its done through SQL and QC workflow that will share the list of outstanding defects along with aging of each defect, severity and its status. Also, number of cycles these defects are tested. [PL/SQL & HP QC Workflow] </p>
-
 					      <div class="categories">Automate Defect Reporting | Verizon,US</div>			               
 					   </div>
-
 			         <div class="link-box">
 				    <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
@@ -803,55 +782,43 @@
 				     	<div class="media">
 				     		<img src="images/portfolio/appdevelopment.jpg" alt="" />
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>Selenium Automation</h4>		      
 					      <p>Built an android app for the college placement committee in a bid to increase the communication between students, faculty and the placement cell and make the life of the placement team easier by automating some important tasks.</p>
 					      <div class="categories">App Development | NMIMS University</div>			               
 					   </div>
-
 			         <div class="link-box">
- 			      <a href="#" class="popup-modal-dismiss">Close</a>
+ 			         <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
-
 				   </div> <!-- /modal-05 -->
 
 				   <div id="modal-09" class="popup-modal slider mfp-hide">	
-
 				     	<div class="media">
 				     		<img src="images/portfolio/pfmanager.jpg" alt="" />
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>SIT Test Manager</h4>		      
 					      <p> Successfully managed a portfolio for a small closed group and generated compounded returns > 13% consistently for a period of 2 years.</p>
-
 					      <div class="categories">Liberty Global, NL</div>			               
 					   </div>
-
 			         <div class="link-box">
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
-
 				   </div> <!-- /modal-06 -->
 
-				   	   <div id="modal-10" class="popup-modal slider mfp-hide">	
-
+			   	   <div id="modal-10" class="popup-modal slider mfp-hide">	
 				     	<div class="media">
 				     		<img src="images/portfolio/Articles.jpg" alt="whitepaper"/>
 				     	</div>      	
-
 					   <div class="description-box">
 					      <h4>White Paper</h4>		      
 					      <p> Enhancing data security and efficiency beyond standard Test Data Management (TDM)</p>
 					      <div class="categories">Test Data Management</div>			               
 					   </div>
-
 			         <div class="link-box">
 					  <a href="http://www.prodapt.com/test-data-management-tdm/" class="popup-modal-dismiss">Details</a>
 					  <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
-
 				   </div> <!-- /modal-06 -->
 
 				   <!-- modal popups - end
