@@ -1513,6 +1513,14 @@ header .logo a {
 	margin-left: -30px;
 }
 
+.intro-info .profilepic {
+	height: 20rem;
+	width: 30rem;
+	border-radius: 70%;
+	margin: 10rem 0 0 -2rem;
+	float: left;
+}
+
 .intro-info .lead {
 	text-align: right;
 	padding-left: 13rem;
