@@ -1516,7 +1516,7 @@ header .logo a {
 .intro-info .profilepic {
 	height: 20rem;
 	width: 30rem;
-	border-radius: 70%;
+	border-radius: 100%;
 	margin: 10rem 0 0 -2rem;
 	float: left;
 }
