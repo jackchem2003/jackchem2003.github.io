@@ -26,7 +26,6 @@
    ================================================== -->   
 	<script src="js/modernizr.js"></script>
 	<script src="js/pace.min.js"></script>
-	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
    <!-- favicons
 	================================================== -->
@@ -125,7 +124,8 @@
          <li><a href="https://www.facebook.com/jagadesh.govindarajan"><i class="fa fa-facebook"></i></a></li>
          <li><a href="https://www.linkedin.com/in/jagadeesh-govindarajan-46427350"><i class="fa fa-linkedin"></i></a></li>
          <li><a href="https://github.com/jackchem2003"><i class="fa fa-github"></i></a></li>
-      </ul> <!-- /intro-social -->      	
+	 	<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+     </ul> <!-- /intro-social -->      	
 
    </section> <!-- /intro -->
 
