@@ -13,7 +13,7 @@
  *  05. forms
  *  06. buttons 
  *  07. other components
- *  08. common styles
+ *  08. common styles.intro-info .profilepic
  *  09. header styles
  *  10. intro
  *  11. about
@@ -1516,7 +1516,7 @@ header .logo a {
 .intro-info .profilepic {
 	height: 20rem;
 	width: 30rem;
-	border-radius: 70%;
+	border-radius: 100%;
 	margin: 10rem 0 0 -2rem;
 	float: left;
 }
